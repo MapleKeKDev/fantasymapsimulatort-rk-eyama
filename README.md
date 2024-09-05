@@ -1,1 +1,3 @@
-# fantasymapsimulatort-rk-eyama
+# TÜRKÇE YAMA!
+
+Nasıl kurulur?
